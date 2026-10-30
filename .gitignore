@@ -1,0 +1,4 @@
+*.docx
+*.log
+.env
+.env.*
